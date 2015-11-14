@@ -1,8 +1,6 @@
 # GA-Coursework-Week-3
 General Assembly Coursework - Front End Web Development (10-Week Part-Time Course) - Week 3
 
-#FEWD Week #3: CSS Layouts
-
 The is an exercise in creating CSS Layouts. Student were provided with a screenshot of a multi-column website and a
 design file which specified various design elements such as column widths, font family, colors, font-weights, etc.
 
